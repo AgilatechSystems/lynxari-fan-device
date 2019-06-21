@@ -5,7 +5,7 @@
   "main": "fan-scout.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Agilatech/lynxari-fan-device.git"
+    "url": "git+https://github.com/AgilatechSystems/lynxari-fan-device.git"
   },
   "keywords": [
     "ventillation",
