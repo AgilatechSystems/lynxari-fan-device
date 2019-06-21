@@ -1,0 +1,17 @@
+{
+    "name":"FAN",
+    "gpio": 23,
+    "manual_minutes": 10,
+    "limits": [
+        {
+            "name": "temperature",
+            "upper":24,
+            "lower":22
+        },
+        {
+            "name": "humidity",
+            "upper": 70,
+            "lower": 50
+        }
+    ]
+}

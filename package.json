@@ -1,0 +1,20 @@
+{
+  "name": "@agilatech/lynxari-fan-device",
+  "version": "1.0.0",
+  "description": "Fan and ventiallation control for use in the Agilatech Lynxari system",
+  "main": "fan-scout.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agilatech/lynxari-fan-device.git"
+  },
+  "keywords": [
+    "ventillation",
+    "fan",
+    "environmental"
+  ],
+  "author": "Agilatech <scott@agilatech.com> (http://agilatech.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@agilatech/gpio": "*"
+  }
+}
